@@ -1,5 +1,0 @@
-we can add any kind of file in the static library and then that file can be downloaded after giving path of the file in the environment and hence it can be used in future
-
-Those files that we want to have in our system and we want them to host are added in the static directory
-
-templates folder can have html css and other web based technolgies files

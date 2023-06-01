@@ -1,0 +1,22 @@
+we can add any kind of file in the static library and then that file can be downloaded after giving path of the file in the environment and hence it can be used in future
+
+Those files that we want to have in our system and we want them to host are added in the static directory
+
+templates folder can have html css and other web based technolgies files
+
+To render HTML or css pages in the web document we must render them in any of the mehtod
+we have to import render_template from the flask module
+and by creating any kind of method we can return the template in terms of html page
+
+To make our webpages more attractive we can use bootstrap so that it can be used to render better pages
+
+bootstrap can have class as container-fluid or container
+container-fluid takes whole page and container class make webpage more responsive
+
+To access database in flask we have to use flask alchamy package 
+It helps us to access database using python
+
+sqlalchemy database is used to access database just like sql 
+we have to config the app as 
+app.config['SQLALCHEMY_DATABASE_URI'] = see on internet for our version
+and give name accordingy
